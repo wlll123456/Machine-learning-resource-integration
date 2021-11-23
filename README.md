@@ -4,4 +4,4 @@ Machine learning will be started in November 2021, and related resources will be
 课程：coursera
 bilibili网课：https://www.bilibili.com/video/BV164411b7dx?p=32
 coursea机器学习课堂练习题：https://www.heywhale.com/mw/project/5e0f01282823a10036b280a7
-代码及相关数据地址：https://www.heywhale.com/mw/project/5da16a37037db3002d441810（有一部分忘记在哪了，但是b站网课下面有人分享）
+代码及相关数据地址：https://www.heywhale.com/mw/project/5da16a37037db3002d441810 （有一部分忘记在哪了，但是b站网课下面有人分享）
